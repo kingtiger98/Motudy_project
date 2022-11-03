@@ -46,8 +46,11 @@ modal창을 이용해 게시판 기능을 구현하였고 new Date()로 글을 �
 <hr>
 
 <h2>모터디 스터디 페이지</h2>
+<img width="686" alt="스크린샷 2022-11-03 오전 10 14 53" src="https://user-images.githubusercontent.com/90561061/199631470-c5ea3771-55de-4111-93fd-c6800eedd0b9.png">
 
 <h2>모터디 회원가입 페이지</h2>
+<img width="795" alt="스크린샷 2022-11-03 오전 10 15 31" src="https://user-images.githubusercontent.com/90561061/199631438-334951a4-8631-44ad-b610-d2a5afc39c60.png">
 
 <h2>모터디 로그인 페이지</h2>
+<img width="686" alt="스크린샷 2022-11-03 오전 10 15 12" src="https://user-images.githubusercontent.com/90561061/199631395-9dab56ac-fd9e-4229-9232-6e044ec1fb34.png">
 
