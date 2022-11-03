@@ -64,7 +64,8 @@ modal창을 이용해 게시판 기능을 구현하였고 new Date()로 글을 �
 그리고 javascript를 활용해 토글메뉴, 모달창, 댓글 기능을 구현하면서 querySelector()를 다양하게 활용해 보았습니다.<br>
 간단하게 git을 통해 organization을 만들어 협업해 봄으로써 git사용법을 익힐 수 있었습니다.<br>
 결과물을 가지고 노원구 창업대전에 참여하며 제가 만든 프로젝트를 사용자들에게 소개하는 경험을 할 수 있었습니다.
-![KakaoTalk_Photo_2022-11-03-10-55-28](https://user-images.githubusercontent.com/90561061/199634448-3998651b-ae07-4c97-8137-66f9b4ed1399.jpeg)
+<img width="720" alt="스크린샷 2022-11-03 오전 10 59 42" src="https://user-images.githubusercontent.com/90561061/199634752-43416235-a790-46c3-a863-5e0491fe16e8.png">
+
 
 <h3>아쉬웠던 점</h3>
 백엔드와의 협업이 이루어지지않아 원래 계획했던 ajax를 통해 json데이터를 다루어보지 못한 것이 아쉬웠습니다.<br>
